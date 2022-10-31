@@ -1,4 +1,4 @@
-# sorted-double-linked-list-
+# sorted-double-linked-list
 
 Create MyDDLLwithHandT class (a sorted double linked list with header and trailer) which contains the following methods.
 1.	Insert a value in the list (keep the list sorted in ascending order)
