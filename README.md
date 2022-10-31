@@ -10,11 +10,11 @@ Create MyDDLLwithHandT class (a sorted double linked list with header and traile
 
 Create a main class to test your MyDDLLwithHandT class, which contains the following methods:
 
-•	Create 4 lists: list1, list2, list3 and list4 of type MyDDLLwithHandT
-•	Write a method to generate randomly numbers between 20 and 60
+1.	Create 4 lists: list1, list2, list3 and list4 of type MyDDLLwithHandT
+2.	Write a method to generate randomly numbers between 20 and 60
   i.	Insert 10 integers (do not insert duplicates) into list1. 
   ii.	Insert 15 integers (do not insert duplicates) into list2.
-•	Merge list1 and list2 into list3
-•	Write a method to find the average of the even numbers in a list.
-•	Given two lists, write a method to find the elements that are in one of the list but not in the other list and insert them into a fourth list. 
-•	Test these methods.
+3.	Merge list1 and list2 into list3
+4.	Write a method to find the average of the even numbers in a list.
+5.	Given two lists, write a method to find the elements that are in one of the list but not in the other list and insert them into a fourth list. 
+6.	Test these methods.
