@@ -9,6 +9,7 @@ Create MyDDLLwithHandT class (a sorted double linked list with header and traile
 6.	Count how many nodes contain a value that is divisible by a given value V.
 
 Create a main class to test your MyDDLLwithHandT class, which contains the following methods:
+
 •	Create 4 lists: list1, list2, list3 and list4 of type MyDDLLwithHandT
 •	Write a method to generate randomly numbers between 20 and 60
   i.	Insert 10 integers (do not insert duplicates) into list1. 
